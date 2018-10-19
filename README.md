@@ -6,8 +6,6 @@
 
 ## Testing In React
 
-##### Here are resources for a wide range of testing methods in React.  
-
 ##### 1. [Writing Tests in Redux](https://github.com/reduxjs/redux/blob/master/docs/recipes/WritingTests.md)
 ##### 2. [Redux: How to test a connected component? - StackOverflow](https://stackoverflow.com/questions/39006563/redux-how-to-test-a-connected-component)
 ##### 3. [Unit Testing Redux Connected Components](https://hackernoon.com/unit-testing-redux-connected-components-692fa3c4441c)
@@ -20,6 +18,16 @@
 ##### 10. [Testing React / Redux Apps with Jest & Enzyme](https://alligator.io/react/testing-redux-actions/)
 ##### 11. [Testing a React-Redux app using Jest and Enzyme](https://medium.com/netscape/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9)
 ##### 12. [Test your Redux container with Enzyme](https://medium.com/@visualskyrim/test-your-redux-container-with-enzyme-a0e10c0574ec)
+
+
+## Promises in JavaScript
+
+##### 1. [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+##### 2. [Understanding Promises](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-understanding-promises)
+##### 3. [Implementing Promises In JavaScript](https://medium.freecodecamp.org/how-to-implement-promises-in-javascript-1ce2680a7f51)
+##### 4. [How to use Promises in JavaScript](https://medium.freecodecamp.org/promises-in-javascript-explained-277b98850de)
+##### 5. [Promises in JavaScript explained whimsically](https://medium.com/@kevinyckim33/what-are-promises-in-javascript-f1a5fc5b34bf)
+##### 6. [Understanding promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
 
 
 
